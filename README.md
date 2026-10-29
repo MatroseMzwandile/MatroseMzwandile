@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mzwandile 
 
-<!--
-**MatroseMzwandile/MatroseMzwandile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student at WeThinkCode_ (Johannesburg), moving toward backend and data engineering. I learn by building.
 
-Here are some ideas to get you started:
+## What I'm working on
+-  Data Engineering Zoomcamp (DataTalks Club): Docker, SQL, pipelines
+-  WeThinkCode_ data engineering coursework
+-  Secure coding: finding and fixing common API vulnerabilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, Java (OOP), SQL
+- **Tools:** Git, Linux terminal, Jupyter
+- **Also:** Excel and Google Apps Script automation, basic AWS (EC2, S3)
+
+## Projects
+- [secure-realestate-api](https://github.com/MatroseMzwandile/secure-realestate-api): a Java/Javalin API built with SQL injection and broken access control flaws, then fixed
+- [Django-Real-Estate-Backend-App](https://github.com/MatroseMzwandile/Django-Real-Estate-Backend-App): Python/Django backend
+- [data-engineering-zoomcamp](https://github.com/MatroseMzwandile/data-engineering-zoomcamp): my notes and homework
+
+[LinkedIn](https://www.linkedin.com/in/mzwandile-matrose)
